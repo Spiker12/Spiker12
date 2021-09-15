@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**Spiker12/Spiker12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 👋 Spiker
+self taught C# & Python developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# ⚡Projects
+* DarkAIO (cracked)
+* LightAIO (ended)
+* LightR (ended)
+* DarkLogs (still going)
+* SAIO (ended)
+* NetX (ended)
+* sCloud (kinda still going)
+
+# 📫 Contact Me
+Discord: $piker#9999
+
